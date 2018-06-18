@@ -1,4 +1,4 @@
-package com.mahindra.dagger2example
+package com.mahindra.dagger2example.root
 
 import android.app.Application
 import android.content.Context
